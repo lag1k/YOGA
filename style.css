@@ -10,7 +10,7 @@ body{
     align-items: center;
     position: sticky;
     top: 0;
-    width: 1520px;
+    width: 100%;
     box-shadow: 1px 2px 5px black;
     
 }
@@ -58,7 +58,7 @@ button:focus ~ .dd{
     padding: 20px;
     color: whitesmoke;
     text-shadow: 2px 2px 1px black;
-    width: 1500px;
+    width: 100%;
     background-color: #9cf;
     margin: -5px;
     box-shadow: 1px 2px 5px black;
@@ -74,12 +74,12 @@ button:focus ~ .dd{
 
 #txt_1{
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
     padding: 20px;
     color: white;
     font-weight: bold;
     text-shadow: 1px 2px 2px black;
-    width: 1500px;
+    width: 100%;
     background-color: #fcf;
     margin-top: -14px;
     margin-bottom: 50px;
@@ -92,7 +92,7 @@ button:focus ~ .dd{
     padding: 20px;
     color: white;
     text-shadow: 2px 2px 1px black;
-    width: 1500px;
+    width: 100%;
     background-color: #ccf;
     text-decoration: underline double 1px;
     box-shadow: 1px 2px 5px black;
@@ -105,7 +105,7 @@ button:focus ~ .dd{
     color: white;
     text-decoration: double 1px;
     text-shadow: 2px 2px 1px black;
-    width: 1500px;
+    width: 100%;
     background-color: #9f6;
     margin-top: -54px;
     margin-bottom: -5px;
@@ -150,7 +150,7 @@ button:focus ~ .dd{
     padding: 20px;
     color: black;
     text-shadow: 0px 1px 2px black;
-    width: 800px;
+    width: 100%;
     background-color: whitesmoke;
     border: 3px solid black;
     box-shadow: 4px 4px 10px black;
@@ -171,7 +171,7 @@ button:focus ~ .dd{
     padding: 50px;
     color: white;
     text-decoration: double 1px;
-    width: 1500px;
+    width: 100%;
     box-shadow: 4px 4px 10px black;
     margin-top: 5px;
     text-shadow: 1px 1px 2px black;
